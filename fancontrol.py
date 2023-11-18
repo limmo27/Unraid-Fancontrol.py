@@ -1,6 +1,9 @@
 #For Unraid install, pain in the ass
 #Install NerdTools App and goto settings to enable Python and wget and it's dependents, it will auto select these depends
 #Goto Unraid terminal
+# cd /boot
+# mkdir sa120
+# cd /boot/sa120
 #Write in terminal wget https://sg.danny.cz/sg/p/sg3_utils-1.48.tgz
 #Write in terminal installpkg sg3_utils-1.48.tgz
 #Write in terminal nano fancontrol.py
